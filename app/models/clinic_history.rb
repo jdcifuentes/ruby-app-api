@@ -1,0 +1,2 @@
+class ClinicHistory < ApplicationRecord
+end
